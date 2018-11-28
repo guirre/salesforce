@@ -1,0 +1,10 @@
+{
+    "orgName": "AcmeGuirre",
+    "country": "US",
+    "edition": "Enterprise",
+    "features": "MultiCurrency;AuthorApex",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled", "ChatterEnabled"],
+        "disabled": ["SelfSetPasswordInApi"]
+    }
+}

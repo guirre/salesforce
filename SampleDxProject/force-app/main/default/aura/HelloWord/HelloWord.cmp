@@ -1,0 +1,3 @@
+<aura:component >
+	<div> Test Component changed </div>
+</aura:component>

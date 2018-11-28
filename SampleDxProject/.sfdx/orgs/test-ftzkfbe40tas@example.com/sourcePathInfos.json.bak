@@ -1,0 +1,144 @@
+[
+    [
+        "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app",
+        {
+            "sourcePath": "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543426185258,
+            "changeTime": 1543426185258,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app\\main",
+        {
+            "sourcePath": "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543426185258,
+            "changeTime": 1543426185258,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543426185259,
+            "changeTime": 1543426185259,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543428024583,
+            "changeTime": 1543428024583,
+            "contentHash": "bb91fbbc79de916e68ea0b4dcb7407bad1941aaf"
+        }
+    ],
+    [
+        "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\unpackaged",
+        {
+            "sourcePath": "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\unpackaged",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543427700872,
+            "changeTime": 1543427700872,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\utils",
+        {
+            "sourcePath": "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\utils",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543427736632,
+            "changeTime": 1543427736632,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject",
+        {
+            "sourcePath": "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543427736632,
+            "changeTime": 1543427736632,
+            "contentHash": "740b595e8059688037c3cd111b6239d84d301867",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543428024586,
+            "changeTime": 1543428024586,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1543428024588,
+            "changeTime": 1543428024588,
+            "contentHash": "0643d983985e58a58a89984fad46901b778a47cf"
+        }
+    ],
+    [
+        "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura\\HelloWord",
+        {
+            "state": "u",
+            "sourcePath": "C:\\outils\\salesforces\\setup_salesforce_dev\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura\\HelloWord",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543428024588,
+            "changeTime": 1543428024588,
+            "contentHash": "67c4dae686a00a4ee176c99a4ae75b5924e78b29"
+        }
+    ]
+]
