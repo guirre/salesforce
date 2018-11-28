@@ -92,3 +92,55 @@ STATE    FULL NAME                TYPE                  PROJECT PATH
 ───────  ───────────────────────  ────────────────────  ───────────────────────────────────────────────────
 Changed  HelloWord\HelloWord.cmp  AuraDefinitionBundle  force-app\main\default\aura\HelloWord\HelloWord.cmp
 ```
+
+
+
+## Reopen Salesforce DX in local machine
+
+```
+PS C:\outils\salesforce\tutorial\salesforce> sfdx force:org:create -f ./SampleDxProject/config/project-scratch-def.json -a LightningScratchOrg
+Successfully created scratch org: 00D6E000000E7RCUA0, username: test-tsv2uazsfszv@example.com
+
+cd .\SampleDxProject\
+sfdx force:config:set defaultusername=test-tsv2uazsfszv@example.com
+sfdx force:org:open -u test-tsv2uazsfszv@example.com
+sfdx force:source:status
+```
+
+
+## Creating a Lightning app and components
+```
+PS C:\outils\salesforce\tutorial\salesforce\SampleDxProject> sfdx force:lightning:app:create -n TestApp -d ./force-app/main/default/aura
+target dir = C:\outils\salesforce\tutorial\salesforce\SampleDxProject\force-app\main\default\aura
+   create TestApp\TestApp.app
+   create TestApp\TestApp.app-meta.xml
+   create TestApp\TestAppController.js
+   create TestApp\TestAppHelper.js
+   create TestApp\TestApp.css
+   create TestApp\TestAppRenderer.js
+   create TestApp\TestApp.svg
+   create TestApp\TestApp.auradoc
+
+
+
+
+
+PS C:\outils\salesforce\tutorial\salesforce\SampleDxProject> sfdx force:lightning:component:create -n TestComponent -d ./force-app/main/default/aura
+target dir = C:\outils\salesforce\tutorial\salesforce\SampleDxProject\force-app\main\default\aura
+   create TestComponent\TestComponent.cmp
+   create TestComponent\TestComponent.cmp-meta.xml
+   create TestComponent\TestComponentController.js
+   create TestComponent\TestComponentHelper.js
+   create TestComponent\TestComponent.css
+   create TestComponent\TestComponentRenderer.js
+   create TestComponent\TestComponent.svg
+   create TestComponent\TestComponent.auradoc
+   create TestComponent\TestComponent.design
+```
+## Data import and export commands in Salesforce DX
+### Data export Salesforce DX command
+```
+sfdx force:data:tree:export -p -q "SELECT Id, Name, (SELECT Id, LastName, FirstName FROM Contacts) FROM Account" -u test-tsv2uazsfszv@example.com --outputdir./data
+```
+
+

@@ -1,0 +1,152 @@
+[
+    [
+        "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app",
+        {
+            "sourcePath": "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543436568336,
+            "changeTime": 1543436568336,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app\\main",
+        {
+            "sourcePath": "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543436568336,
+            "changeTime": 1543436568336,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543436568337,
+            "changeTime": 1543436568337,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543436568337,
+            "changeTime": 1543436568337,
+            "contentHash": "bb91fbbc79de916e68ea0b4dcb7407bad1941aaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura\\HelloWord",
+        {
+            "sourcePath": "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura\\HelloWord",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543436568339,
+            "changeTime": 1543436568339,
+            "contentHash": "67c4dae686a00a4ee176c99a4ae75b5924e78b29",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp",
+        {
+            "sourcePath": "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp",
+            "isDirectory": false,
+            "size": 74,
+            "modifiedTime": 1543436568338,
+            "changeTime": 1543436568338,
+            "contentHash": "83c2e3aa527c76ca563235697cd5cf2dae927571",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1543436568339,
+            "changeTime": 1543436568339,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\unpackaged",
+        {
+            "sourcePath": "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\unpackaged",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543439526356,
+            "changeTime": 1543439526356,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\utils",
+        {
+            "sourcePath": "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject\\utils",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543439533205,
+            "changeTime": 1543439533205,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject",
+        {
+            "sourcePath": "C:\\outils\\salesforce\\tutorial\\salesforce\\SampleDxProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543439533205,
+            "changeTime": 1543439533205,
+            "contentHash": "740b595e8059688037c3cd111b6239d84d301867",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
