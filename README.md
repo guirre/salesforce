@@ -2,7 +2,7 @@
 ## Setup Salesforce Developer Organisation
 URL : https://guirre-dev-ed.my.salesforce.com
 Login : mohamed.guirre@secours-islamique.org
-Pass : A.....#1111
+Pass : ....#..1111...
 
 ## The Lightning Design System
 URL : https://www.Lightningdesignsystem.com
@@ -10,7 +10,7 @@ URL : https://www.Lightningdesignsystem.com
 ## SalesForce DX
 https://login.salesforce.com/ 
 Nom d'utilisateur : mohamed.guirre.sfdx@secours-islamique.org
-Pass : A....#1111
+Pass : ....#..1111...
 
 ## Salesforce DX commands
 ### auth commands
